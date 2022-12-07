@@ -1,0 +1,47 @@
+body{
+    background-color: #A5F1E9;
+}
+.stopwatch{
+    font-size: 100px;
+    text-align: center;
+    padding-top:50px;
+    color:#439A97;
+}
+.timer{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 90px;
+}
+.btns{
+    text-align: center;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+}
+.start{
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: #439A97;
+    border: #439A97;
+    margin: 40px;
+    border-radius: 10cm;
+}
+.stop{
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: #439A97;
+    border: #439A97;
+    margin: 40px;
+    border-radius: 10cm;
+}
+.reset{
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: #439A97;
+    border: #439A97;
+    margin: 40px;
+    border-radius: 10cm;
+}
